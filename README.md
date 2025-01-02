@@ -32,3 +32,7 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+# Resources
+- [Secure a .NET web app with the ASP.NET Core Identity framework](https://learn.microsoft.com/en-gb/training/modules/secure-aspnet-core-identity)
+- [Let's Learn .NET: Auth and Identity](https://learn.microsoft.com/en-us/shows/lets-learn-dotnet/lets-learn-dotnet-auth-and-identity#time=02m50s)
